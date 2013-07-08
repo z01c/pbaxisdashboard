@@ -1,3 +1,4 @@
+
 package practicum.axis.pbdb.shared;
 
 /**
@@ -20,6 +21,8 @@ package practicum.axis.pbdb.shared;
  * JavaScript (such as Widgets) cannot be run on the server.
  * </p>
  */
+@Deprecated//both class and package
+
 public class FieldVerifier {
 
     /**
